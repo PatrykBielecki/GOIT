@@ -21,7 +21,7 @@ const przesylka2 = {
 przesylka2.waga = 20;
 przesylka.name = "List";
 przesylka2.name = "Paczka";
-
+  
 
 function mojaFunkcja(id) {
 
